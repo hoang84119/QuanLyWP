@@ -1,0 +1,10 @@
+{
+  "name": "App",
+  "displayName": "Quản lý WordPress",
+  "expo": {
+    "slug": "App",
+    "name": "App",
+    "sdkVersion": "28.0.0",
+    "entryPoint": "d:\\SourceCode\\React native\\App\\.vscode\\exponentIndex.js"
+  }
+}
